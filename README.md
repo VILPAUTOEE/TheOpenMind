@@ -7,7 +7,7 @@ I used this https://github.com/Lednerb/bilberry-hugo-theme and you need to add i
 2. `cd my-web-site`
 3. `git clone https://github.com/VILPAUTOEE/TheOpenMind.git`
 4. `git clone https://github.com/Lednerb/bilberry-hugo-theme.git`
-5. `cp -r bilberry-hugo-theme themes
+5. `cp -r bilberry-hugo-theme themes`
 6. `hugo server`
 
 More to read https://github.com/Lednerb/bilberry-hugo-theme/blob/master/README.md
